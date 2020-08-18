@@ -10,5 +10,5 @@
 
 ---
 
-### My current study project
+### My last study project
 ![My Current Study Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TailsSavarin&repo=qna&theme=gruvbox)

@@ -1,6 +1,5 @@
 ### Hi, I'm Alexander :wave:
-- Currently learning Ruby and RoR :mortar_board:
-- Trying my best to become a real developer! :blush:
+- Ruby on Rails developer :blush::mortar_board:
 
 ![TailsSavarin's GithHub Stats](https://github-readme-stats.vercel.app/api?username=TailsSavarin&show_icons=true&theme=gruvbox)
 

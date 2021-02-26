@@ -1,5 +1,5 @@
 ### Hi, I'm Alexander :wave:
-- Ruby on Rails developer
+- Ruby developer
 
 ![TailsSavarin's GithHub Stats](https://github-readme-stats.vercel.app/api?username=TailsSavarin&show_icons=true&theme=gruvbox)
 

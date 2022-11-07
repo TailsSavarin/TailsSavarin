@@ -6,8 +6,3 @@
 ---
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TailsSavarin&theme=gruvbox)
-
----
-
-### My last study project
-![My Current Study Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TailsSavarin&repo=qna&theme=gruvbox)
